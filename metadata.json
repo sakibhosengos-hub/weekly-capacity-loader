@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Capacity Loader",
+  "description": "Automates weekly capacity loading and planning by syncing with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
